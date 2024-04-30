@@ -12,4 +12,4 @@ Trying Again: Back at the login screen, we try logging in again with our new use
 DB connection: All kinds of data for login and registration save to out created SQL server that already I ‘m connected my login registration forms.
 
                                           
-Thank You Everyone
+Thank You Sir/Everyone
